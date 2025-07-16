@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absar22&label=Profile%20views&color=0e75b6&style=flat" alt="absar22" /> </p>
 
-- 🌱 I’m currently learning **MONGODB**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **MERN**
 
