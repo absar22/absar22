@@ -1,8 +1,8 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Absar Ahmad</h1>
-<h3 align="center">Full-Stack Software Engineer @ 100Devs | MERN & Beyond 🚀</h3>
+<h1 align="left">Hi 👋, I'm Absar Ahmad</h1>
+<h3 align="left">Full-Stack Software Engineer @ 100Devs | MERN & Beyond 🚀</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=absar22&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
@@ -16,7 +16,7 @@
 ---
 
 ### 🤝 Connect With Me  
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/absar22" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -25,7 +25,7 @@
 ---
 
 ### 🛠 Languages & Tools  
-<p align="center"> 
+<p align="left"> 
   <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -55,12 +55,10 @@
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=absar22&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=absar22&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
-
