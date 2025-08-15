@@ -59,6 +59,17 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 
+  <!-- Docker -->
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
+
+<!-- Prisma -->
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/prisma/prisma/main/icons/PRISMA-FINAL-icon.svg" alt="prisma" width="40" height="40"/>
+</a>
+
+
   <!-- PostgreSQL -->
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
