@@ -49,9 +49,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=absar22&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=absar22&theme=tokyonight" alt="GitHub Streak" />  
 
----
 
 
-
-## ☕ Activity Graph  
-![Absar's Graph](https://github-readme-activity-graph.vercel.app/graph?username=absar22&theme=tokyo-night)
