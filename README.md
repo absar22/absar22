@@ -51,5 +51,14 @@
 
 ---
 
-<!-- Optional fun addition -->
+<!-- Fun addition -->
 ![GitHub Contribution Snake](https://github.com/absar22/absar22/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## ☕ Activity Graph  
+<!-- Option 1: Local SVG (you must save activity.svg in repo root) -->
+![Absar's Activity Graph](./activity.svg)  
+
+<!-- Option 2: Auto-updating Graph (no need to save file) -->
+<!-- ![Absar's Graph](https://github-readme-activity-graph.vercel.app/graph?username=absar22&theme=tokyo-night) -->
