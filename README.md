@@ -1,8 +1,6 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Absar+Ahmad;Full-Stack+Software+Engineer;MERN+Stack+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Full-Stack%20Engineer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Full-Stack%20Engineer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/> -->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=absar22&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
@@ -13,11 +11,11 @@
 
 ## 🚀 About Me
 
-- 🌍 Based in India 🇮🇳
+- 🌍 Based in India
 - 💼 Full-Stack Developer @ 100Devs
 - 💻 Building scalable web applications
 - 🎯 Goal: Contribute to open source & master TypeScript
-- ⚡ Fun Fact: I debug with console.log 😄
+
 
 <br/>
 
@@ -60,7 +58,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/> -->
 
 <div align="center">
   <h3>💙 Thanks for visiting! Let's build something incredible together! 💙</h3>
