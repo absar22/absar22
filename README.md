@@ -2,29 +2,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Absar+Ahmad;Full-Stack+Software+Engineer;MERN+Stack+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Full-Stack%20Engineer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=absar22&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/absar22?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Followers-absar22?style=for-the-badge&color=blue&logo=github" alt="GitHub followers" />
 </div>
 
 <br/>
 
 ## 🚀 About Me
 
-- 🌍 Based in India 🇮🇳
-- 💼 Full-Stack Developer @ 100Devs
-- 💻 Building scalable web applications
-- 🎯 Goal: Contribute to open source & master TypeScript
-- ⚡ Fun Fact: I debug with console.log 😄
+- 🌍 Based in India  
+- 💼 Full-Stack Developer @ 100Devs  
+- 💻 Building scalable web applications  
+- 🎯 Goal: Contribute to open source & master TypeScript  
 
 ## 🛠️ Tech Stack
 
 **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS  
-**Backend:** Node.js, Express, Python, Java  
+**Backend:** Node.js, Express, Python  
 **Database:** MongoDB, MySQL, PostgreSQL, Redis  
-**Cloud & Tools:** AWS, Docker, Git, VSCode, Postman, Vercel, Heroku
+**Cloud & Tools:** AWS, Docker, Git, VSCode, Postman, Vercel, Render, Google DevTools  
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,python,java,mysql,postgresql,redis,aws,docker,git,github,vscode,postman" alt="Tech Stack"/>
@@ -58,8 +55,6 @@
 </div>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 <div align="center">
   <h3>💙 Thanks for visiting! Let's build something incredible together! 💙</h3>
