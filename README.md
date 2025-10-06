@@ -1,6 +1,3 @@
-
-
-<br>
 ## 🚀 About Me
 
 - 🌍 Based in India
