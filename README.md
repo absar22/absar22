@@ -1,13 +1,5 @@
 
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Full-Stack%20Engineer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/> -->
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=absar22&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/absar22?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub followers" />
-</div>
-
-<br/>
 
 ## 🚀 About Me
 
