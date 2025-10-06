@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Absar+Ahmad;Full-Stack+Software+Engineer;MERN+Stack+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=absar22&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
