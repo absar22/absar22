@@ -1,10 +1,20 @@
+<!-- Waving Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&animation=fadeIn&fontColor=ffffff"/>
+
+<div align="center">
+  <h1>👋 Hi, I'm Absar!</h1>
+  <p>A passionate <b>Full-Stack Developer</b> crafting scalable web applications with 💻 code and ☕ coffee.</p>
+</div>
+
+<br/>
+
 ## 🚀 About Me
 
-- 🌍 Based in India
-- 💼 Full-Stack Developer @ 100Devs
-- 💻 Building scalable web applications
-- 🎯 Goal: Contribute to open source & master TypeScript
-
+- 🌍 **Based in**: India
+- 💼 **Role**: Full-Stack Developer @ <a href="https://100devs.com" target="_blank">100Devs</a>
+- 💻 **Focus**: Building scalable, user-friendly web applications
+- 🎯 **Goals**: Contribute to open-source projects and master <b>TypeScript</b>
+- 🌟 **Fun Fact**: I love exploring new tech and turning ideas into reality!
 
 <br/>
 
@@ -14,9 +24,11 @@
   <a href="https://linkedin.com/in/absar22" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:absarahmad137@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  &nbsp;
   <a href="https://github.com/absar22" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -27,7 +39,10 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,python,java,mysql,postgresql,redis,aws,docker,git,github,vscode,postman,vercel" alt="Tech Stack"/>
+  <p><b>Languages & Frameworks</b></p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,python,java" alt="Languages & Frameworks"/>
+  <p><b>Databases & Tools</b></p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,aws,docker,git,github,vscode,postman,vercel" alt="Databases & Tools"/>
 </div>
 
 <br/>
@@ -35,8 +50,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=absar22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absar22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=absar22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absar22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="40%"/>
 </div>
 
 <div align="center">
@@ -45,9 +60,26 @@
 
 <br/>
 
+## 🌟 Featured Projects
 
+- **[Project Name 1](https://github.com/absar22/project1)**: A brief description of a notable project, highlighting its tech stack and purpose.
+- **[Project Name 2](https://github.com/absar22/project2)**: A brief description of another project, showcasing your skills and creativity.
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/> -->
+<br/>
+
+## 💬 Let's Collaborate!
+
+<div align="center">
+  <p>I'm always excited to work on innovative projects and contribute to the tech community. Feel free to reach out for collaboration or just to chat about code! 🚀</p>
+  <a href="https://github.com/absar22?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Check%20Out%20My%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- Waving Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 <div align="center">
   <h3>💙 Thanks for visiting! Let's build something incredible together! 💙</h3>
