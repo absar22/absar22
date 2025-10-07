@@ -58,14 +58,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=absar22&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
 </div>
 
-<br/>
+<!-- <br/>
 
 ## 🌟 Featured Projects
 
 - **[Project Name 1](https://github.com/absar22/project1)**: A brief description of a notable project, highlighting its tech stack and purpose.
 - **[Project Name 2](https://github.com/absar22/project2)**: A brief description of another project, showcasing your skills and creativity.
 
-<br/>
+<br/> -->
 
 ## 💬 Let's Collaborate!
 
