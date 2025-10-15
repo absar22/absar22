@@ -51,8 +51,8 @@
 
 ## 🏆 CodeWars Stats
 <div align="center">
-  <a href="https://www.codewars.com/users/YOUR_CODEWARS_USERNAME" target="_blank">
-    <img src="https://www.codewars.com/users/YOUR_CODEWARS_USERNAME/badges/large" alt="CodeWars Badge"/>
+  <a href="https://www.codewars.com/users/absar09" target="_blank">
+    <img src="https://www.codewars.com/users/absar09/badges/large" alt="CodeWars Badge"/>
   </a>
 </div>
 <br/>
