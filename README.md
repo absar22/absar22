@@ -19,11 +19,9 @@ I'm a developer with a strong focus on **backend development**, system design, a
 
 ```typescript
 const absar = {
-  location: "Narnaund, Haryana, IN",
   focus: ["Backend Architecture", "System Design", "Real-time Systems"],
   currentlyLearning: ["Advanced Backend Patterns", "Scalable API Design"],
   askMeAbout: ["Node.js", "MongoDB", "REST APIs", "WebSockets"],
-  funFact: "I prefer building over tutorials"
 };
 ```
 
