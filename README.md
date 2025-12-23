@@ -9,6 +9,7 @@ I'm a backend-focused full-stack developer with a drive for building scalable, r
 * 🤝 I’m looking for help with **Scalability Testing for JiraChat**
 * 👨‍💻 All of my projects are available at **[github.com/absar22](https://github.com/absar22)**
 * 💬 Ask me about **Node.js, WebSockets, and MVC Architecture**
+* ⛩️ Big **Anime Fan** — Let's talk about Peak Fiction!
 * 📫 How to reach me **absarahmad137@gmail.com**
 
 <details>
@@ -21,16 +22,10 @@ I'm a backend-focused full-stack developer with a drive for building scalable, r
   "currentlyWatching": "One Piece",
   "allTimeGoat": "One Piece"
 }
+</details>
 
-### Languages and Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,mongodb,nextjs,react,tailwind,redis,git,postman,vscode,docker" />
-</p>
+Languages and Tools:
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,mongodb,nextjs,react,tailwind,redis,git,postman,vscode,docker" /> </p>
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=absar22&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absar22&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
-
+📊 GitHub Stats
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=absar22&show_icons=true&theme=tokyonight&hide_border=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absar22&layout=compact&theme=tokyonight&hide_border=true" height="150" /> </p>
