@@ -26,18 +26,6 @@ I'm a backend-focused full-stack developer with a drive for building scalable, r
 * ⛩️ Big **Anime Fan** — Let's talk about Peak Fiction!
 * 📫 How to reach me **absarahmad137@gmail.com**
 
-<details>
-<summary><b>📺 My Top Tier Watchlist</b></summary>
-<br/>
-
-
-{
-  "favorites": ["Attack on Titan", "Haikyuu!!", "Vinland Saga", "Monster", "Code Geass"],
-  "currentlyWatching": "One Piece",
-  "allTimeGoat": "One Piece"
-}
-</details> 
-
 Languages and Tools:
 <p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,mongodb,nextjs,react,tailwind,redis,git,postman,vscode,docker" /> </p>
 
