@@ -22,7 +22,4 @@ I'm a backend-focused full-stack developer with a drive for building scalable, r
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absar22&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=absar22&color=blue&style=flat-square" alt="Profile Views" />
-</div>
+
