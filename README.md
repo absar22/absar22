@@ -11,6 +11,17 @@ I'm a backend-focused full-stack developer with a drive for building scalable, r
 * 💬 Ask me about **Node.js, WebSockets, and MVC Architecture**
 * 📫 How to reach me **absarahmad137@gmail.com**
 
+<details>
+<summary><b>📺 My Top Tier Watchlist</b></summary>
+<br/>
+
+```json
+{
+  "favorites": ["Attack on Titan", "Haikyuu!!", "Vinland Saga", "Monster", "Code Geass"],
+  "currentlyWatching": "One Piece",
+  "allTimeGoat": "One Piece"
+}
+
 ### Languages and Tools:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,mongodb,nextjs,react,tailwind,redis,git,postman,vscode,docker" />
