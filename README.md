@@ -4,9 +4,8 @@ I'm a backend-focused full-stack developer with a drive for building scalable, r
 
 ### 🚀 Quick Overview
 
-* 🔭 I’m currently working on **[JiraChat](https://github.com/absar22/jirachat)**
+
 * 🌱 I’m currently learning **Advanced System Design & Microservices**
-* 🤝 I’m looking for help with **Scalability Testing for JiraChat**
 * 👨‍💻 All of my projects are available at **[github.com/absar22](https://github.com/absar22)**
 * 💬 Ask me about **Node.js, WebSockets, and MVC Architecture**
 * ⛩️ Big **Anime Fan** — Let's talk about Peak Fiction!
