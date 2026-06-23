@@ -12,7 +12,7 @@ I'm a backend-focused full-stack developer with a drive for building scalable, r
 * 📫 How to reach me **absarahmad137@gmail.com**
 
 Languages and Tools:
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,mongodb,nextjs,react,tailwind,redis,git,postman,vscode,docker" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,mongodb,mysql,postgres,nextjs,react,tailwind,redis,git,postman,vscode,docker" /> </p>
 
 📊 GitHub Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=absar22&show_icons=true&theme=tokyonight&hide_border=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absar22&layout=compact&theme=tokyonight&hide_border=true" height="150" /> </p>
