@@ -24,35 +24,18 @@ I build real-world web applications with a focus on backend engineering, authent
 
 **🚀 Full-Stack Applications** — Next.js · React · Redux Toolkit · Tailwind CSS · REST API Integration
 
-**⚡ Performance & Infrastructure** — Redis · Docker · Caching · Rate Limiting · Logging · Deployment
-
 ---
 
 ## Featured Engineering
 
-### [Smart Job Finder](https://github.com/absar22)
 
-End-to-end job search platform built to help users discover and manage relevant job opportunities.
-
-Built with a production-oriented architecture including authentication, role-based authorization, REST APIs, database integration, profile image uploads, API documentation, security middleware, and deployment.
-
-**Frontend:** Next.js · React · TypeScript · Redux Toolkit · Tailwind CSS
-
-**Backend:** Node.js · Express.js · MongoDB · Mongoose · JWT · Cloudinary
-
-**Infrastructure:** Render · Vercel · Docker · Redis
-
-`Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `JWT`
-
----
-
-### YouTube Backend API
+### [YouTube Backend API](https://github.com/absar22/youtube-backend)
 
 Backend system for a video platform focused on understanding real backend architecture rather than simply building UI.
 
 Implemented user authentication, JWT access/refresh tokens, HTTP-only cookies, password hashing, file uploads with Multer, Cloudinary media storage, MongoDB models, MVC structure, and protected routes.
 
-**Stack:** Node.js · Express.js · TypeScript/JavaScript · MongoDB · Mongoose · JWT · bcrypt · Cloudinary · Multer
+**Stack:** Node.js · Express.js · JavaScript · MongoDB · Mongoose · JWT · bcrypt · Cloudinary · Multer
 
 `Node.js` `Express` `MongoDB` `JWT` `Cloudinary`
 
@@ -68,7 +51,7 @@ The project is designed around building the system from the ground up using raw 
 
 **Frontend:** HTML · Vanilla CSS · TypeScript
 
-`TypeScript` `Express` `PostgreSQL` `Redis`
+`Javascript` `Express` `Mongoose` 
 
 ---
 
@@ -84,7 +67,7 @@ I am currently focusing on becoming a stronger backend engineer by going deeper 
 
 ---
 
-## Experience Snapshot
+## Experience 
 
 **Awwaltech** · Front-End Developer Intern
 
@@ -92,19 +75,6 @@ Worked with Next.js, TypeScript, Redux Toolkit, REST APIs, routing, dynamic rout
 
 ---
 
-## Skills → Proof
-
-| **Area**            | **Technologies**                                    | **Applied In**                     |
-| ------------------- | --------------------------------------------------- | ---------------------------------- |
-| **Backend**         | Node.js · Express.js · TypeScript · REST APIs · MVC | Smart Job Finder · YouTube Backend |
-| **Authentication**  | JWT · Cookies · bcrypt · Access/Refresh Tokens      | Smart Job Finder · YouTube Backend |
-| **Databases**       | MongoDB · Mongoose · PostgreSQL · SQL               | Smart Job Finder · SpacedRep       |
-| **Frontend**        | Next.js · React · Redux Toolkit · Tailwind CSS      | Smart Job Finder                   |
-| **Caching / Infra** | Redis · Docker · Rate Limiting · Logging            | Smart Job Finder                   |
-| **Cloud / Storage** | Cloudinary · Render · Vercel                        | Smart Job Finder · YouTube Backend |
-| **Developer Tools** | Git · GitHub · Postman · VS Code                    | Daily Development                  |
-
----
 
 ## Currently Building
 
