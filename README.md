@@ -54,6 +54,17 @@ The project is designed around building the system from the ground up using raw 
 `Javascript` `Express` `Mongoose` 
 
 ---
+## Articles
+
+### [JWT Authentication Explained](https://jwt-blog.hashnode.dev/jwt-authentication-explained)
+
+A practical guide to understanding JSON Web Token (JWT) authentication: how tokens work, their structure, and how they are used to authenticate users in web applications.
+
+**Topics:** JWT · Authentication · Authorization · Node.js · Backend Security
+
+[Read the article on Hashnode →](https://jwt-blog.hashnode.dev/jwt-authentication-explained)
+
+---
 
 ## Engineering Focus
 
