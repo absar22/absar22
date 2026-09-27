@@ -37,7 +37,7 @@ Implemented user authentication, JWT access/refresh tokens, HTTP-only cookies, p
 
 **Stack:** Node.js · Express.js · JavaScript · MongoDB · Mongoose · JWT · bcrypt · Cloudinary · Multer
 
-`Node.js` `Express` `MongoDB` `JWT` `Cloudinary`
+`Node.js` `Express` `MongoDB` `JWT` `Cloudinary` `Mutlter` `MongoDB Aggregation Pipelines`
 
 ---
 
