@@ -41,7 +41,7 @@ Implemented user authentication, JWT access/refresh tokens, HTTP-only cookies, p
 
 ---
 
-### SpacedRep
+### [SpacedRep](https://github.com/absar22/Anki-FlashCards)
 
 A backend-focused spaced-repetition learning application inspired by the core workflow of Anki.
 
