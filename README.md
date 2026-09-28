@@ -54,18 +54,6 @@ A practical guide to understanding JSON Web Token (JWT) authentication: how toke
 
 ---
 
-## Engineering Focus
-
-I am currently focusing on becoming a stronger backend engineer by going deeper into:
-
-`Node.js` · `TypeScript` · `Express.js` · `PostgreSQL` · `MongoDB` · `Redis`
-
-`REST APIs` · `Authentication` · `Authorization` · `Caching` · `SQL` · `Docker`
-
-`DSA` · `System Design` · `Networking` · `HTTP` · `TCP/IP` · `WebSockets`
-
----
-
 ## Experience 
 
 **Awwaltech** · Front-End Developer Intern
