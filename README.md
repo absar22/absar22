@@ -14,18 +14,6 @@ I build real-world web applications with a focus on backend engineering, authent
 
 ---
 
-## What I Build
-
-**⚙️ Backend Engineering** — Node.js · Express.js · TypeScript · REST APIs · MVC · Middleware
-
-**🔐 Authentication & Security** — JWT · HTTP-only Cookies · Access / Refresh Tokens · bcrypt · CORS · Helmet
-
-**🗄️ Databases & Data** — MongoDB · Mongoose · PostgreSQL · SQL · Database Design · Query Optimization
-
-**🚀 Full-Stack Applications** — Next.js · React · Redux Toolkit · Tailwind CSS · REST API Integration
-
----
-
 ## Featured Engineering
 
 
@@ -86,19 +74,6 @@ Worked with Next.js, TypeScript, Redux Toolkit, REST APIs, routing, dynamic rout
 
 ---
 
-
-## Currently Building
-
-**SpacedRep** — A spaced-repetition learning platform built with Express, TypeScript, PostgreSQL, Redis, and vanilla frontend technologies.
-
-The goal is to understand the complete backend lifecycle:
-
-`Request` → `Middleware` → `Controller` → `Service` → `Database` → `Response`
-
-while implementing production concepts such as authentication, validation, pagination, search, caching, error handling, logging, Docker, and deployment.
-
----
-
 ## Currently Learning
 
 **Backend Engineering**
@@ -108,9 +83,3 @@ Node.js · Express.js · TypeScript · PostgreSQL · Redis · Docker · Authenti
 **Computer Science**
 
 Data Structures & Algorithms · SQL · HTTP · TCP/IP · Networking · Operating Systems Fundamentals
-
----
-
-<p align="center">
-  <i>Build. Understand. Improve.</i>
-</p>
