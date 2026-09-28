@@ -111,14 +111,6 @@ Data Structures & Algorithms · SQL · HTTP · TCP/IP · Networking · Operating
 
 ---
 
-## Connect
-
-I'm interested in backend engineering, full-stack development, and building practical products that solve real problems.
-
-[**GitHub**](https://github.com/absar22) · **LinkedIn** · **Email:** [absarahmad137@gmail.com](mailto:absarahmad137@gmail.com)
-
----
-
 <p align="center">
   <i>Build. Understand. Improve.</i>
 </p>
