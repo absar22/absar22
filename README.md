@@ -59,15 +59,3 @@ A practical guide to understanding JSON Web Token (JWT) authentication: how toke
 **Awwaltech** · Front-End Developer Intern
 
 Worked with Next.js, TypeScript, Redux Toolkit, REST APIs, routing, dynamic routes, and Tailwind CSS while gaining practical exposure to Node.js, Express.js, MongoDB, MVC architecture, and backend APIs.
-
----
-
-## Currently Learning
-
-**Backend Engineering**
-
-Node.js · Express.js · TypeScript · PostgreSQL · Redis · Docker · Authentication · System Design
-
-**Computer Science**
-
-Data Structures & Algorithms · SQL · HTTP · TCP/IP · Networking · Operating Systems Fundamentals
