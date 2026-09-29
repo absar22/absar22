@@ -38,4 +38,4 @@ Worked with Next.js, TypeScript, Redux Toolkit, and Tailwind on a REST API-drive
 
 - Email: [absarahmad137@gmail.com](mailto:absarahmad137@gmail.com)
 - GitHub: [@absar22](https://github.com/absar22)
-- LinkedIn: [add your profile link here](https://www.linkedin.com/)
+- LinkedIn: [Absar Ahmad](https://www.linkedin.com/in/absar22/)
