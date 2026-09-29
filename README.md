@@ -31,7 +31,7 @@ Built with TypeScript, Express, PostgreSQL, Redis
 
 ## Experience
 
-**Front-End Developer Intern, Awwaltech**
+**Front-End Developer Intern, [Awwaltech](https://www.awwaltech.com/)**
 Worked with Next.js, TypeScript, Redux Toolkit, and Tailwind on a REST API-driven front end. On the side, I got hands-on with Express, MongoDB, and MVC structure.
 
 ## Contact
