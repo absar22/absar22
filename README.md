@@ -1,61 +1,41 @@
-# Absar Ahmad
+# Hi, I'm Absar 👋
 
-**Backend / Full-Stack Developer · Node.js · TypeScript · APIs · Databases**
+I'm a backend developer working mostly with Node.js and TypeScript. I like building the parts of an app you don't see: auth, APIs, and databases.
 
-I build real-world web applications with a focus on backend engineering, authentication, APIs, databases, and scalable application architecture.
+**Tools I use:** Node.js, TypeScript, Express, MongoDB, PostgreSQL, Redis
 
-**Node.js** · **TypeScript** · **Express.js** · **MongoDB** · **PostgreSQL** · **Redis**
-
-[**GitHub**](https://github.com/absar22) · [**LinkedIn**](https://www.linkedin.com/) · **Email:** [absarahmad137@gmail.com](mailto:absarahmad137@gmail.com)
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,mongodb,postgresql,mysql,redis,nextjs,react,tailwind,docker,git,postman,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,mongodb,postgresql,redis,docker,git,postman" />
 </p>
 
----
-
-## Featured Engineering
-
+## Projects
 
 ### [YouTube Backend API](https://github.com/absar22/youtube-backend)
+The backend for a video platform. I built it to learn how a real backend fits together, so there's no UI.
 
-Backend system for a video platform focused on understanding real backend architecture rather than simply building UI.
+- Sign-up and login with JWT access/refresh tokens stored in HTTP-only cookies
+- Password hashing with bcrypt
+- Video and image uploads with Multer and Cloudinary
+- MongoDB models with aggregation pipelines for the more complex queries
 
-Implemented user authentication, JWT access/refresh tokens, HTTP-only cookies, password hashing, file uploads with Multer, Cloudinary media storage, MongoDB models, MVC structure, and protected routes.
-
-**Stack:** Node.js · Express.js · JavaScript · MongoDB · Mongoose · JWT · bcrypt · Cloudinary · Multer
-
-`Node.js` `Express` `MongoDB` `JWT` `Cloudinary` `Mutlter` `MongoDB Aggregation Pipelines`
-
----
+Built with Node.js, Express, MongoDB, Mongoose
 
 ### [SpacedRep](https://github.com/absar22/Anki-FlashCards)
+A flashcard app inspired by Anki, using spaced repetition to schedule reviews. I'm writing raw SQL on purpose to understand what an ORM would normally hide. *Work in progress.*
 
-A backend-focused spaced-repetition learning application inspired by the core workflow of Anki.
+Built with TypeScript, Express, PostgreSQL, Redis
 
-The project is designed around building the system from the ground up using raw SQL and a simple frontend rather than relying heavily on abstractions.
+## Writing
 
-**Planned Stack:** TypeScript · Express.js · PostgreSQL · Redis · JWT · bcrypt
+- [JWT Authentication Explained](https://jwt-blog.hashnode.dev/jwt-authentication-explained): how JWTs are structured and how they're used to authenticate users
 
-**Frontend:** HTML · Vanilla CSS · TypeScript
+## Experience
 
-`Javascript` `Express` `Mongoose` 
+**Front-End Developer Intern, Awwaltech**
+Worked with Next.js, TypeScript, Redux Toolkit, and Tailwind on a REST API-driven front end. On the side, I got hands-on with Express, MongoDB, and MVC structure.
 
----
-## Articles
+## Contact
 
-### [JWT Authentication Explained](https://jwt-blog.hashnode.dev/jwt-authentication-explained)
-
-A practical guide to understanding JSON Web Token (JWT) authentication: how tokens work, their structure, and how they are used to authenticate users in web applications.
-
-**Topics:** JWT · Authentication · Authorization · Node.js · Backend Security
-
-[Read the article on Hashnode →](https://jwt-blog.hashnode.dev/jwt-authentication-explained)
-
----
-
-## Experience 
-
-**Awwaltech** · Front-End Developer Intern
-
-Worked with Next.js, TypeScript, Redux Toolkit, REST APIs, routing, dynamic routes, and Tailwind CSS while gaining practical exposure to Node.js, Express.js, MongoDB, MVC architecture, and backend APIs.
+- Email: [absarahmad137@gmail.com](mailto:absarahmad137@gmail.com)
+- GitHub: [@absar22](https://github.com/absar22)
+- LinkedIn: [add your profile link here](https://www.linkedin.com/)
